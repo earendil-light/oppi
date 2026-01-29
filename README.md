@@ -11,7 +11,7 @@
 
 # ORG
 
-## G / T
+## GT
 * AL
 * AR
 * EU
@@ -23,18 +23,17 @@
   
 ## G
 * JAPP
-* CO
-* HU
-* LA
-* PO
-
-* BR
 * CA
 * CH
-* GR
+* CO
+* BR
 * GA
+* GR
 * HI
+* HU
 * ID
+* LA
+* PO
 * RO
 * RU
 * SW
