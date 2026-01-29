@@ -8,3 +8,36 @@
 
 ## 02/02
 * 
+
+# ORG
+
+## G / T
+* AL
+* AR
+* EU
+* FI
+* FR
+* IN
+* IT
+* JA
+  
+## G
+* JAPP
+* CO
+* HU
+* LA
+* PO
+
+* BR
+* CA
+* CH
+* GR
+* GA
+* HI
+* ID
+* RO
+* RU
+* SW
+* TU
+* UC
+* VI
